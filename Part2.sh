@@ -1,1 +1,1 @@
-echo "Pipeline is amazing"
+echo "Pipeline is amazinggg"
